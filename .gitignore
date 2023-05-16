@@ -1,0 +1,10 @@
+# OS ignore
+.DS_Store
+
+# Docker Mysql Data
+/docker/mysql/data/*
+
+# Editor settings ignore
+
+/.idea
+/.vscode
