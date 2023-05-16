@@ -36,13 +36,13 @@
 
 .main {
   display: flex;
+  position: fixed;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
   text-align: center;
   width: 100%;
   height: calc(100% - 150px);
-  padding-top: 100px;
+  padding-top: 150px;
 }
 
 .main-ttl {
@@ -135,7 +135,7 @@
 }
 
 table {
-  width: 100%;
+  width: 80%;
   margin-top: 40px;
 }
 
